@@ -2,6 +2,8 @@
 ## Contact Info
   * cameron.labbe@gmail.com
   * 303-802-9393
+## Resume
+https://cameronlabbe.github.io/Resume/resume.pdf
 ## About Me
 Recent graduate from [Colorado School of Mines](https://www.mines.edu/).
 Currently working mostly on projects, open to full time positions.
