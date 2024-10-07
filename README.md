@@ -7,7 +7,7 @@ https://cameronlabbe.github.io/Resume/resume.pdf
 ## About Me
 Recent graduate from [Colorado School of Mines](https://www.mines.edu/).
 Currently working mostly on projects, open to full time positions.
-## Active Projects
+## Active Work
   * Frankenchiller ([docs](https://docs.frankenchiller.com/))
       * Private repo for now, working on a public readme
       * A full stack IoT solution that monitors and controls temperature control systems.
